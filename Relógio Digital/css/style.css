@@ -1,0 +1,38 @@
+body {
+    font-family: 'Righteous', cursive;
+    font-family: 'Sarala', sans-serif;
+    background-image: url(/images/clock-dark.jpg);
+    background-color: rgba(0, 0, 0, 0.6);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+
+.cabecalho {
+    color:antiquewhite;
+    font-weight: bold;
+    font-size: 90px;
+    text-align: center;
+    margin-top: 70px;
+    
+}
+
+.conteudo {
+    background-color:antiquewhite;
+    font-family: 'Cambria';
+    font-size: 155px;
+    color:black;
+    width: 900px;
+    margin: 170px auto;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-shadow: 2px 2px dimgrey;
+}
+
+.rodape {
+    text-align: center;
+    color:goldenrod;
+    padding: 100px;
+}
